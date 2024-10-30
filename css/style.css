@@ -1,0 +1,27 @@
+.hidden{
+    display: none;
+}
+.mdc_video_form_div {
+    margin-bottom: 4px;
+}
+.mdc_video_output_div {
+    border: 1px solid #ddd;
+    overflow: hidden;
+    padding: 2px 6px 0 6px;
+}
+body div .mdc_video_output_div > p {
+    margin: 0;
+}
+.mdc_video_output_div > h3 {
+    font-size: 20px !important;
+    margin: 0 !important;
+    text-align: center;
+}
+.thumb-showing {
+    float: left;
+    overflow: hidden;
+}
+div.mdc_video_wait_div > img {
+    width: 32px;
+    box-shadow: 0 0 0 #fff;
+}
